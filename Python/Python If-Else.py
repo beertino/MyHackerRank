@@ -1,3 +1,6 @@
+#Test Value n
+n=5
+
 if n-2*(n//2) == 1:
     print('Weird')
 else:
